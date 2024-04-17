@@ -5,6 +5,7 @@ Within the file explorer in R-Studio click on longevity_risk_pricing.R and run t
 Ensure that all relevant libraries are installed.
 
 The code is structured into the following sub-sections:
+
   0.	Setup containing libraries and relevant data handling and simulation functions
   1.	Data import of mortality data
   2.	Manual Lee-Carter fitting
